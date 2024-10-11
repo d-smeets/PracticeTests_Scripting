@@ -1,0 +1,14 @@
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\bin\Debug\net8.0\Oefen_Toets_P1_V2.exe
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\bin\Debug\net8.0\Oefen_Toets_P1_V2.deps.json
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\bin\Debug\net8.0\Oefen_Toets_P1_V2.runtimeconfig.json
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\bin\Debug\net8.0\Oefen_Toets_P1_V2.dll
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\bin\Debug\net8.0\Oefen_Toets_P1_V2.pdb
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.AssemblyInfoInputs.cache
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.AssemblyInfo.cs
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.csproj.CoreCompileInputs.cache
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.dll
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\refint\Oefen_Toets_P1_V2.dll
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.pdb
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\Oefen_Toets_P1_V2.genruntimeconfig.cache
+C:\Users\DjDyl\source\repos\Oefen_Toets_P1_V2\Oefen_Toets_P1_V2\obj\Debug\net8.0\ref\Oefen_Toets_P1_V2.dll

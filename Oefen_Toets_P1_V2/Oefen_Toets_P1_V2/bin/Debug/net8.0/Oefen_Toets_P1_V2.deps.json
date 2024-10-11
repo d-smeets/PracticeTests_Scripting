@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oefen_Toets_P1_V2/1.0.0": {
+        "runtime": {
+          "Oefen_Toets_P1_V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefen_Toets_P1_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

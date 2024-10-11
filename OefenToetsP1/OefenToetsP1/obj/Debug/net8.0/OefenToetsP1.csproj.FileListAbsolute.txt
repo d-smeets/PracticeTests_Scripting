@@ -1,0 +1,14 @@
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\bin\Debug\net8.0\OefenToetsP1.exe
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\bin\Debug\net8.0\OefenToetsP1.deps.json
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\bin\Debug\net8.0\OefenToetsP1.runtimeconfig.json
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\bin\Debug\net8.0\OefenToetsP1.dll
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\bin\Debug\net8.0\OefenToetsP1.pdb
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.AssemblyInfoInputs.cache
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.AssemblyInfo.cs
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.csproj.CoreCompileInputs.cache
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.dll
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\refint\OefenToetsP1.dll
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.pdb
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\OefenToetsP1.genruntimeconfig.cache
+C:\Users\DjDyl\source\repos\OefenToetsP1\OefenToetsP1\obj\Debug\net8.0\ref\OefenToetsP1.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefenToetsP1", "OefenToetsP1\OefenToetsP1.csproj", "{55EAA41A-8E26-455C-9225-15B1389B6B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EAA41A-8E26-455C-9225-15B1389B6B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EAA41A-8E26-455C-9225-15B1389B6B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EAA41A-8E26-455C-9225-15B1389B6B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EAA41A-8E26-455C-9225-15B1389B6B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F4DE50D-A302-4A05-AD3E-E73BDD1CE9F3}
+	EndGlobalSection
+EndGlobal
